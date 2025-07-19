@@ -18,8 +18,8 @@ Kullanıcılar, küçük resimlere tıkladığında seçilen resim bir **modal p
 
 ## 🚀 Kullanılan Teknolojiler
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Bootstrap 5
 
